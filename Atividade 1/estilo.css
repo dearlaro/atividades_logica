@@ -1,0 +1,23 @@
+body {
+    text-align: center; 
+    background-color: #ffbdfb}
+
+#enviar {
+    padding-bottom: 10px; 
+    padding-top: 10px; 
+    padding-left:160px; 
+    padding-right: 160px;}
+        
+#numero {
+    margin-bottom: 20px; 
+    margin-top: 15px; 
+    margin-left: 10px; 
+    padding-left: 50px; 
+    padding-bottom: 10px; 
+    padding-top: 10px}
+        
+.titulo { 
+    text-align: center; 
+    font-size: 50px; 
+    font-family: 'Courier New', Courier, monospace; 
+    color: #942990;}
