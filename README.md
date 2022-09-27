@@ -1,1 +1,1 @@
-# atividades_logica
+Alguns exercícios de lógica na linguagem PHP.
